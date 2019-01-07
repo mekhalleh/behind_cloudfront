@@ -16,5 +16,5 @@ Cloudfront CDN.
 ![alt text][module_demo]
 
 [module_info]: https://raw.githubusercontent.com/mekhalleh/behind_cloudfront/master/pictures/01-demo.png "Module: info"
-[module_advanced]: https://raw.githubusercontent.com/mekhalleh/behind_cloubehind_cloudfrontdflare/master/pictures/02-demo.png "Module: advanced"
+[module_advanced]: https://raw.githubusercontent.com/mekhalleh/behind_cloudfront/master/pictures/02-demo.png "Module: advanced"
 [module_demo]: https://raw.githubusercontent.com/mekhalleh/behind_cloudfront/master/pictures/03-demo.png "Module: demo"
